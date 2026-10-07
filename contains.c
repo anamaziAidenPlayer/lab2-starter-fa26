@@ -1,5 +1,4 @@
-#include <studio.h>
-
-int contains(int item, int arr[], int size) {
-
-}
+contains 2? 1
+contains 4? 0
+contains 9? 1
+contains 3? 0
