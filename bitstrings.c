@@ -1,8 +1,6 @@
 #include <stddef.h>
 #include <stdio.h> 
 #include <assert.h>
-
-
 int main(int argc, char *argv[]) {
   char a1 = 0b01100001;
   char b1 = 0b01100010;
